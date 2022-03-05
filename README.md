@@ -2,7 +2,7 @@
 # wils #1843 - databays
 
 # Bot Hakkında Bilgilendirme
-- Proje tamamı ile "alesat" tarafından geliştirildi
+- Proje tamamı ile "alesta" tarafından geliştirildi
 - Discord.js V12 isteyen v13 yapabilir istediğiniz gibi kulanın:D
 - Emeği geçen bana çok teşekürler.
 
