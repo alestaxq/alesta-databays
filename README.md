@@ -17,5 +17,4 @@
 - `.veri` rol/channel yedekler (boş bi commends oto şekilde yapıyo zaten)
 
 # Bot İçeriğine Ait Resimler
-- bekle knk gelicek
-
+- bekle knk gelicek mk
