@@ -1,4 +1,4 @@
-# Hi there , I'm alesta 
+
 # wils #1843 - databays
 
 # Bot Hakkında Bilgilendirme
@@ -18,7 +18,7 @@
 
 # Bot İçeriğine Ait Resimler
 ![qnrewnqtnwqentwqetnwet](https://cdn.discordapp.com/attachments/935256382905680033/949574784147152916/unknown.png)
-![qewfqewfqgedfqwwqdeqwe](https://cdn.discordapp.com/attachments/948627531437838386/949575820819726336/unknown.png)
+![qnrewnqtnwqentwqetnwet](https://cdn.discordapp.com/attachments/948627531437838386/949575820819726336/unknown.png)
 ![qnrewnqtnwqentwqetnwet](https://cdn.discordapp.com/attachments/948627494276313088/949575624874414150/unknown.png)
 
 
