@@ -16,6 +16,9 @@
 - `.denetim rol/channel` 1 günde rol/channel silindiyse onu listeler
 - `.veri` rol/channel yedekler (boş bi commends oto şekilde yapıyo zaten)
 
+# ne zaman paylaşılcak?
+- sikimin keyfine bağlı
+
 # Bot İçeriğine Ait Resimler
 ![qnrewnqtnwqentwqetnwet](https://cdn.discordapp.com/attachments/935256382905680033/949574784147152916/unknown.png)
 ![qnrewnqtnwqentwqetnwet](https://cdn.discordapp.com/attachments/948627531437838386/949575820819726336/unknown.png)
