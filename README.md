@@ -17,4 +17,5 @@
 - `.veri` rol/channel yedekler (boş bi commends oto şekilde yapıyo zaten)
 
 # Bot İçeriğine Ait Resimler
-- bekle knk gelicek mk
+
+https://cdn.discordapp.com/attachments/935256382905680033/949574784147152916/unknown.png
