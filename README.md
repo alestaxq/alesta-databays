@@ -1,8 +1,21 @@
 # Hi there , I'm alesta 
-![profile count](https://komarev.com/ghpvc/?username=alestaxq&color=8b72ff)&nbsp;
-[![GitHub alestaxq](https://img.shields.io/github/followers/alestaxq?label=follow&style=social)](https://github.com/alestaxq)&nbsp;
-<a href="https://instagram.com/alestaxq"><img src="https://img.shields.io/badge/@alestaxq-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+# wils #1843 - databays
 
-My Server:  https://discord.gg/1843
+# Bot Hakkında Bilgilendirme
+- Proje tamamı ile "alesat" tarafından geliştirildi
+- Discord.js V12 isteyen v13 yapabilir istediğiniz gibi kulanın:D
+- Emeği geçen bana çok teşekürler.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/918903891553320990?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/612688335944679600)
+# Bot Kurulumu?
+- `config` klasörünün içerisindeki dosyasını düzenlemeniz yeterli olacaktır.
+- `.npm i` - `node .` vs bunları biliyonuz saden bilmiyosanız sikir git napim amk xD
+
+# Botun İçerisindekiler
+- `.channel-kur İD` herhangi bir kanal "category" silindiği zaman direk geri getirebilirsiniz
+- `.dağıt İD` herhangi bir rol silindiği zaman rolü açar izin vs ayarlar ve rolü dağıtır
+- `.denetim rol/channel` 1 günde rol/channel silindiyse onu listeler
+- `.veri` rol/channel yedekler (boş bi commends oto şekilde yapıyo zaten)
+
+# Bot İçeriğine Ait Resimler
+- bekle knk gelicek
+
